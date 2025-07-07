@@ -92,11 +92,13 @@ docker run -p 8000:8000 diabetes-prediction-model
 kubectl apply -f diabetes-prediction-model-deployment.yaml
 ```
 
+## port forwarding 
+![image](https://github.com/user-attachments/assets/a0b63d1e-e2f4-4a71-b707-798a2938aab2)
+
 ## Output
 ![image](https://github.com/user-attachments/assets/e80359fb-1243-4ca7-84c8-9b92c80a18c0)
 
--- port forwarding 
-![image](https://github.com/user-attachments/assets/a0b63d1e-e2f4-4a71-b707-798a2938aab2)
+
 
 
 
