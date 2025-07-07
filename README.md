@@ -38,7 +38,8 @@ cd first-mlops-project
 
 ```
 python3 -m venv .mlops
-source .mlops/bin/activate
+source .mlops/bin/activate    # For macOs
+source .mlops/Scripts/activate   # For windows
 ```
 
 ### 3. Install Dependencies
