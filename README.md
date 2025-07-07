@@ -98,6 +98,10 @@ kubectl apply -f diabetes-prediction-model-deployment.yaml
 ## Output
 ![image](https://github.com/user-attachments/assets/e80359fb-1243-4ca7-84c8-9b92c80a18c0)
 
+After changing the parameters 
+![image](https://github.com/user-attachments/assets/5159037f-1ef6-4e67-a9ad-985c812b53e3)
+
+
 
 
 
